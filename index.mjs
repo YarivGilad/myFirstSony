@@ -1,4 +1,4 @@
-const log = require('@ajar/marker');
+import log from '@ajar/marker';
 
 console.log('hello git');
 log.magenta('hello git');
